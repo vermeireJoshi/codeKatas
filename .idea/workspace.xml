@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d281a479-cd12-4eb3-a04d-06911e8933ee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +77,12 @@
       <file leaf-file-name="StatsCalculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#130#131#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,8 +90,13 @@
       <file leaf-file-name="StatsCalculatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="255">
+              <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,6 +122,8 @@
         <option value="$PROJECT_DIR$/src/fizzBuzz/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/src/leapYear/LeapYear.java" />
         <option value="$PROJECT_DIR$/src/leapYear/LeapYearTest.java" />
+        <option value="$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java" />
+        <option value="$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -172,14 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LeapYearTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="CodeKatas" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
+  <component name="RunManager" selected="JUnit.StatsCalculatorTest">
     <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeKatas" />
       <extension name="coverage">
@@ -249,14 +253,63 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="StatsCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeKatas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="statsCalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="statsCalculator" />
+      <option name="MAIN_CLASS_NAME" value="statsCalculator.StatsCalculatorTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StatsCalculatorTest.foo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeKatas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="statsCalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="statsCalculator" />
+      <option name="MAIN_CLASS_NAME" value="statsCalculator.StatsCalculatorTest" />
+      <option name="METHOD_NAME" value="foo" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.FizzBuzzTest" />
       <item itemvalue="JUnit.LeapYearTest.year2001NoLeapYear" />
       <item itemvalue="JUnit.LeapYearTest" />
+      <item itemvalue="JUnit.StatsCalculatorTest.foo" />
+      <item itemvalue="JUnit.StatsCalculatorTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StatsCalculatorTest" />
+        <item itemvalue="JUnit.StatsCalculatorTest.foo" />
         <item itemvalue="JUnit.LeapYearTest" />
         <item itemvalue="JUnit.LeapYearTest.year2001NoLeapYear" />
         <item itemvalue="JUnit.FizzBuzzTest" />
@@ -277,27 +330,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeapYearTest - 2019.01.02 at 11h 32m 17s.xml">
-      <configuration name="LeapYearTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeapYearTest - 2019.01.02 at 11h 34m 11s.xml">
-      <configuration name="LeapYearTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeapYearTest - 2019.01.02 at 11h 34m 39s.xml">
-      <configuration name="LeapYearTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeapYearTest - 2019.01.02 at 11h 34m 49s.xml">
-      <configuration name="LeapYearTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeapYearTest - 2019.01.02 at 11h 34m 58s.xml">
-      <configuration name="LeapYearTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeapYearTest - 2019.01.02 at 11h 35m 49s.xml">
-      <configuration name="LeapYearTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeapYearTest - 2019.01.02 at 11h 38m 11s.xml">
-      <configuration name="LeapYearTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LeapYearTest - 2019.01.02 at 11h 38m 25s.xml">
       <configuration name="LeapYearTest" configurationId="JUnit" />
     </history-entry>
@@ -306,6 +338,27 @@
     </history-entry>
     <history-entry file="LeapYearTest - 2019.01.02 at 11h 39m 13s.xml">
       <configuration name="LeapYearTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest_foo - 2019.01.02 at 11h 55m 47s.xml">
+      <configuration name="StatsCalculatorTest.foo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 11h 55m 50s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 11h 57m 20s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 11h 58m 10s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 11h 58m 15s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 11h 58m 23s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 11h 58m 40s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -320,12 +373,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28105167" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24569356" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13444924" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13444924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -395,15 +448,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="255">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
