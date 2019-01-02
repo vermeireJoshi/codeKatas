@@ -4,6 +4,8 @@ import main.FizzBuzz;
 import org.junit.Before;
 import org.junit.Test;
 
+import static org.junit.Assert.assertEquals;
+
 public class FizzBuzzTest {
 
     private FizzBuzz fizzBuzz;
@@ -14,8 +16,15 @@ public class FizzBuzzTest {
     }
 
     @Test
-    public void fizzBuzzShouldReturnString1withInput1() {
-        fizzBuzz.fizzBuzz(1);
+    public void fizzBuzzShouldReturnString1() {
+        String output = fizzBuzz.fizzBuzz(1);
+        assertEquals("1", output);
+    }
+
+    @Test
+    public void fizzBuzzShouldReturnString2() {
+        String output = fizzBuzz.fizzBuzz(2);
+        assertEquals("2", output);
     }
 }
 
