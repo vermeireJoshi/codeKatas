@@ -67,4 +67,22 @@ public class StatsCalculatorTest {
 
         assertEquals(5, length);
     }
+
+    @Test
+    public void lengthShouldReturnNumberOfElementsSequenceNoElements() {
+        int[] sequence = { };
+
+        int length = stats.length(sequence);
+
+        assertEquals(0, length);
+    }
+
+    @Test
+    public void averageShouldReturnAverageOfSequenceOneElement() {
+        int[] sequence = { 3 };
+
+        int avg = stats.average(sequence);
+
+        assertEquals(3, avg);
+    }
 }
