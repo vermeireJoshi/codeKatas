@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d281a479-cd12-4eb3-a04d-06911e8933ee" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeKatas/anagrams/AnagramsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeKatas/anagrams/AnagramsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anagrams/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anagrams/Anagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/anagrams/AnagramsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anagrams/AnagramsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Anagrams.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Anagrams.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/anagrams/Anagrams.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -35,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnagramsTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AnagramsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/anagrams/AnagramsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="375">
+              <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,8 +70,8 @@
         <option value="$PROJECT_DIR$/src/fizzBuzz/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/src/leapYear/LeapYearTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/anagrams/AnagramsTest.java" />
         <option value="$PROJECT_DIR$/src/anagrams/Anagrams.java" />
+        <option value="$PROJECT_DIR$/src/anagrams/AnagramsTest.java" />
       </list>
     </option>
   </component>
@@ -287,9 +284,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AnagramsTest - 2019.01.02 at 16h 24m 30s.xml">
-      <configuration name="AnagramsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AnagramsTest - 2019.01.02 at 16h 25m 48s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
@@ -315,6 +309,9 @@
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="AnagramsTest - 2019.01.02 at 17h 04m 22s.xml">
+      <configuration name="AnagramsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AnagramsTest - 2019.01.02 at 17h 06m 59s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -501,20 +498,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/anagrams/AnagramsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/anagrams/Anagrams.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anagrams/AnagramsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
