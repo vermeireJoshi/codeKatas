@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d281a479-cd12-4eb3-a04d-06911e8933ee" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primeFactors/PrimeFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,16 +98,38 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="StatsCalculatorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StatsCalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+            <state relative-caret-position="350">
+              <caret line="74" column="44" lean-forward="true" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#162#163#0" expanded="true" />
                 <element signature="e#188#189#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimeFactors.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/primeFactors/PrimeFactors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -135,13 +157,14 @@
         <option value="$PROJECT_DIR$/src/leapYear/LeapYearTest.java" />
         <option value="$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java" />
         <option value="$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/primeFactors/PrimeFactors.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="68" />
+    <option name="x" value="767" />
     <option name="y" value="23" />
-    <option name="width" value="1852" />
+    <option name="width" value="1153" />
     <option name="height" value="1177" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -167,7 +190,7 @@
               <item name="CodeKatas" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeKatas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="statsCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="primeFactors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -373,7 +396,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="23" width="1852" height="1177" extended-state="0" />
+    <frame x="767" y="23" width="1153" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -384,12 +407,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24569356" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24569356" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13444924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21595837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -477,14 +500,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrimeFactors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+        <state relative-caret-position="350">
+          <caret line="74" column="44" lean-forward="true" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#162#163#0" expanded="true" />
             <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/primeFactors/PrimeFactors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
           </folding>
         </state>
       </provider>
