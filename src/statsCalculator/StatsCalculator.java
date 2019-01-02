@@ -9,6 +9,6 @@ public class StatsCalculator {
     }
 
     public int minValue(int[] sequence) {
-        return 3;
+        return Arrays.stream(sequence).min().getAsInt();
     }
 }
