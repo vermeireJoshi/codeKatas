@@ -81,8 +81,17 @@ public class StatsCalculatorTest {
     public void averageShouldReturnAverageOfSequenceOneElement() {
         int[] sequence = { 3 };
 
-        int avg = stats.average(sequence);
+        double avg = stats.average(sequence);
 
-        assertEquals(3, avg);
+        assertEquals(3, avg, 0);
+    }
+
+    @Test
+    public void averageShouldReturnAverageOfSequenceMultipleElements() {
+        int[] sequence = { 1, 2, 3, 4, 5, 6 };
+
+        double avg = stats.average(sequence);
+
+        assertEquals(3.5, avg, 0);
     }
 }

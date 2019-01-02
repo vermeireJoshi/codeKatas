@@ -16,7 +16,7 @@ public class StatsCalculator {
         return sequence.length;
     }
 
-    public int average(int[] sequence) {
-        return 3;
+    public double average(int[] sequence) {
+        return Arrays.stream(sequence).average().getAsDouble();
     }
 }
