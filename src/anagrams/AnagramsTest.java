@@ -21,7 +21,8 @@ public class AnagramsTest {
                 { "a", new String[] { "a" } },
                 { "b", new String[] { "b" } },
                 { "ab", new String[] { "ab", "ba" } },
-                { "aa", new String[] { "aa" } }
+                { "aa", new String[] { "aa" } },
+                { "abc", new String[] { "abc", "acb", "bac", "bca", "cab", "cba" } }
         });
     }
 
