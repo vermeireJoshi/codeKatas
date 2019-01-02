@@ -31,4 +31,13 @@ public class StatsCalculatorTest {
 
         assertEquals(5, max);
     }
+
+    @Test
+    public void minValueReturnsTheMinValueOfSequenceWithOneElement() {
+        int[] sequence = { };
+
+        int min = stats.minValue(sequence);
+
+        assertEquals(3, min);
+    }
 }

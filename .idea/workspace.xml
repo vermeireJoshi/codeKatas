@@ -74,24 +74,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StatsCalculator.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StatsCalculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="165">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
               <folding>
                 <element signature="e#102#103#0" expanded="true" />
                 <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StatsCalculatorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StatsCalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="600">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#162#163#0" expanded="true" />
@@ -122,8 +124,8 @@
         <option value="$PROJECT_DIR$/src/fizzBuzz/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/src/leapYear/LeapYear.java" />
         <option value="$PROJECT_DIR$/src/leapYear/LeapYearTest.java" />
-        <option value="$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java" />
         <option value="$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java" />
       </list>
     </option>
   </component>
@@ -330,9 +332,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StatsCalculatorTest - 2019.01.02 at 11h 55m 50s.xml">
-      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StatsCalculatorTest - 2019.01.02 at 11h 57m 20s.xml">
       <configuration name="StatsCalculatorTest" configurationId="JUnit" />
     </history-entry>
@@ -358,6 +357,9 @@
       <configuration name="StatsCalculatorTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 09m 45s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 14m 39s.xml">
       <configuration name="StatsCalculatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -446,25 +448,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="600">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#162#163#0" expanded="true" />
             <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
           </folding>
         </state>
       </provider>
