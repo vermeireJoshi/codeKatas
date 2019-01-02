@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d281a479-cd12-4eb3-a04d-06911e8933ee" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeKatas/anagrams/Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeKatas/anagrams/Anagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeKatas/anagrams/AnagramsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeKatas/anagrams/AnagramsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/anagrams/AnagramsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anagrams/AnagramsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,8 +38,8 @@
       <file leaf-file-name="AnagramsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/anagrams/AnagramsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="631">
+              <caret line="43" column="51" lean-forward="true" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -290,34 +287,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AnagramsTest - 2019.01.02 at 17h 09m 02s.xml">
+    <history-entry file="AnagramsTest - 2019.01.02 at 17h 39m 05s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramsTest - 2019.01.02 at 17h 09m 03s.xml">
+    <history-entry file="AnagramsTest - 2019.01.02 at 17h 39m 13s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramsTest - 2019.01.02 at 17h 09m 04s.xml">
+    <history-entry file="AnagramsTest - 2019.01.02 at 17h 39m 26s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramsTest - 2019.01.02 at 17h 09m 06s.xml">
+    <history-entry file="AnagramsTest - 2019.01.02 at 17h 39m 35s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramsTest - 2019.01.02 at 17h 09m 07s.xml">
+    <history-entry file="AnagramsTest - 2019.01.02 at 17h 39m 59s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramsTest - 2019.01.02 at 17h 09m 08s.xml">
+    <history-entry file="AnagramsTest - 2019.01.02 at 17h 40m 11s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramsTest - 2019.01.02 at 17h 09m 09s.xml">
+    <history-entry file="AnagramsTest - 2019.01.02 at 17h 41m 24s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramsTest - 2019.01.02 at 17h 10m 43s.xml">
+    <history-entry file="AnagramsTest - 2019.01.02 at 17h 41m 31s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramsTest - 2019.01.02 at 17h 22m 48s.xml">
+    <history-entry file="AnagramsTest - 2019.01.02 at 17h 41m 38s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramsTest - 2019.01.02 at 17h 28m 27s.xml">
+    <history-entry file="AnagramsTest - 2019.01.02 at 17h 41m 50s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -333,12 +330,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23572077" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23572077" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14503817" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14503817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -527,8 +524,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/anagrams/AnagramsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="631">
+          <caret line="43" column="51" lean-forward="true" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
