@@ -1,65 +1,46 @@
 package fizzBuzz;
 
-import org.junit.Before;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.Parameterized;
+
+import java.util.Arrays;
+import java.util.Collection;
 
 import static org.junit.Assert.assertEquals;
 
+@RunWith(Parameterized.class)
 public class FizzBuzzTest {
 
-    private FizzBuzz fizzBuzz;
+    private int input;
+    private String expected;
 
-    @Before
-    public void before() {
-        this.fizzBuzz = new FizzBuzz();
+    @Parameterized.Parameters
+    public static Collection<Object[]> data() {
+        return Arrays.asList(new Object[][] {
+                { 1, "1" },
+                { 2, "2" },
+                { 4, "4" },
+                { 3, "fizz" },
+                { 6, "fizz" },
+                { 5, "buzz" },
+                { 10, "buzz" },
+                { 15, "fizzbuzz"}
+        });
+    }
+
+    public FizzBuzzTest(int input, String expected) {
+        this.input = input;
+        this.expected = expected;
     }
 
     @Test
     public void fizzBuzzShouldReturnString1() {
-        String output = fizzBuzz.fizzBuzz(1);
-        assertEquals("1", output);
-    }
+        FizzBuzz fizzBuzz = new FizzBuzz();
 
-    @Test
-    public void fizzBuzzShouldReturnString2() {
-        String output = fizzBuzz.fizzBuzz(2);
-        assertEquals("2", output);
-    }
+        String output = fizzBuzz.fizzBuzz(input);
 
-    @Test
-    public void fizzBuzzShouldReturnString4() {
-        String output = fizzBuzz.fizzBuzz(4);
-        assertEquals("4", output);
-    }
-
-    @Test
-    public void fizzBuzzShouldReturnFizzWithInput3() {
-        String output = fizzBuzz.fizzBuzz(3);
-        assertEquals("fizz", output);
-    }
-
-    @Test
-    public void fizzBuzzShouldreturnFizzWithInput6() {
-        String output = fizzBuzz.fizzBuzz(6);
-        assertEquals("fizz", output);
-    }
-
-    @Test
-    public void fizzBuzzShouldReturnBuzzWithInput5() {
-        String output = fizzBuzz.fizzBuzz(5);
-        assertEquals("buzz", output);
-    }
-
-    @Test
-    public void fizzBuzzShouldReturnBuzzWithInput10() {
-        String output = fizzBuzz.fizzBuzz(10);
-        assertEquals("buzz", output);
-    }
-
-    @Test
-    public void fizzBuzzShouldReturnFizzbuzzWithInput15() {
-        String output = fizzBuzz.fizzBuzz(15);
-        assertEquals("fizzbuzz", output);
+        assertEquals(expected, output);
     }
 }
 

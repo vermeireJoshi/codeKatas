@@ -1,59 +1,43 @@
 package leapYear;
 
-import org.junit.Before;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.Parameterized;
 
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertTrue;
+import java.util.Arrays;
+import java.util.Collection;
 
+import static org.junit.Assert.assertEquals;
+
+@RunWith(Parameterized.class)
 public class LeapYearTest {
 
-    private LeapYear leapYear;
+    private int input;
+    private boolean expected;
 
-    @Before
-    public void before() {
-        this.leapYear = new LeapYear();
+    @Parameterized.Parameters
+    public static Collection<Object[]> data() {
+        return Arrays.asList(new Object[][] {
+                { 2001, false },
+                { 1996, true },
+                { 1992, true },
+                { 1900, false },
+                { 1800, false },
+                { 2000, true },
+                { 1600, true },
+        });
+    }
+
+    public LeapYearTest(int input, boolean expected) {
+        this.input = input;
+        this.expected = expected;
     }
 
     @Test
     public void year2001NoLeapYear(){
-        boolean output = leapYear.check(2001);
-        assertFalse(output);
+        LeapYear leapYear = new LeapYear();
+        boolean output = leapYear.check(input);
+        assertEquals(expected, output);
     }
 
-    @Test
-    public void year1996IsLeapYear() {
-        boolean output = leapYear.check(1996);
-        assertTrue(output);
-    }
-
-    @Test
-    public void year1992IsLeapYear() {
-        boolean output = leapYear.check(1992);
-        assertTrue(output);
-    }
-
-    @Test
-    public void year1900NoLeapYear() {
-        boolean output = leapYear.check(1900);
-        assertFalse(output);
-    }
-
-    @Test
-    public void year1800NoLeapYear() {
-        boolean output = leapYear.check(1800);
-        assertFalse(output);
-    }
-
-    @Test
-    public void  year2000IsLeapYear() {
-        boolean output = leapYear.check(2000);
-        assertTrue(output);
-    }
-
-    @Test
-    public void year1600IsLeapYear() {
-        boolean output = leapYear.check(1600);
-        assertTrue(output);
-    }
 }
