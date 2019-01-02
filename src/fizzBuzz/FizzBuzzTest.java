@@ -1,6 +1,5 @@
-package test;
+package fizzBuzz;
 
-import main.FizzBuzz;
 import org.junit.Before;
 import org.junit.Test;
 
