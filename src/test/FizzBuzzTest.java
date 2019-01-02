@@ -56,5 +56,11 @@ public class FizzBuzzTest {
         String output = fizzBuzz.fizzBuzz(10);
         assertEquals("buzz", output);
     }
+
+    @Test
+    public void fizzBuzzShouldReturnFizzbuzzWithInput15() {
+        String output = fizzBuzz.fizzBuzz(15);
+        assertEquals("fizzbuzz", output);
+    }
 }
 
