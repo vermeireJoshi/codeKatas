@@ -38,5 +38,11 @@ public class FizzBuzzTest {
         String output = fizzBuzz.fizzBuzz(3);
         assertEquals("fizz", output);
     }
+
+    @Test
+    public void fizzBuzzShuoldreturnFizzWithInput6() {
+        String output = fizzBuzz.fizzBuzz(6);
+        assertEquals("fizz", output);
+    }
 }
 
