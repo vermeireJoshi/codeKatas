@@ -27,12 +27,8 @@
       <file leaf-file-name="Anagrams.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/anagrams/Anagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -40,8 +36,8 @@
       <file leaf-file-name="AnagramsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/anagrams/AnagramsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="330">
+              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -358,12 +354,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimeFactorsTest - 2019.01.02 at 14h 31m 03s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTest - 2019.01.02 at 14h 31m 57s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrimeFactorsTest - 2019.01.02 at 14h 32m 14s.xml">
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
@@ -386,6 +376,12 @@
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="AnagramsTest - 2019.01.02 at 16h 23m 44s.xml">
+      <configuration name="AnagramsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AnagramsTest - 2019.01.02 at 16h 24m 30s.xml">
+      <configuration name="AnagramsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AnagramsTest - 2019.01.02 at 16h 25m 48s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -539,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/anagrams/AnagramsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="330">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -549,12 +545,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/anagrams/Anagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

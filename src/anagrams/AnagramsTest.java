@@ -19,7 +19,8 @@ public class AnagramsTest {
     public static Collection<Object[]> data() {
         return Arrays.asList(new Object[][] {
                 { "a", new String[] { "a" } },
-                { "b", new String[] { "b" } }
+                { "b", new String[] { "b" } },
+                { "ab", new String[] { "ab", "ba" } }
         });
     }
 
