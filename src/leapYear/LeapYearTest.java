@@ -44,4 +44,16 @@ public class LeapYearTest {
         boolean output = leapYear.check(1800);
         assertFalse(output);
     }
+
+    @Test
+    public void  year2000IsLeapYear() {
+        boolean output = leapYear.check(2000);
+        assertTrue(output);
+    }
+
+    @Test
+    public void year1600IsLeapYear() {
+        boolean output = leapYear.check(1600);
+        assertTrue(output);
+    }
 }
