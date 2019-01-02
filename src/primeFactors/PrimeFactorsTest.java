@@ -19,7 +19,8 @@ public class PrimeFactorsTest {
         return Arrays.asList(new Object[][] {
                 { 2, new int[] { 2 } },
                 { 3, new int[] { 3 } },
-                { 4, new int[] { 2, 2 } }
+                { 4, new int[] { 2, 2 } },
+                { 6, new int[] { 2, 3 } }
         });
     }
 

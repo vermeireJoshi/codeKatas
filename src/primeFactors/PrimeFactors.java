@@ -21,6 +21,7 @@ public class PrimeFactors {
             if (number % i == 0) {
                 output.add(i);
                 output.addAll(Arrays.stream(calculate(number / i)).boxed().collect(Collectors.toList()));
+                break;
             }
         }
         return output.stream().mapToInt(i -> i).toArray();
