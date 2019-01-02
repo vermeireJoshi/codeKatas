@@ -20,7 +20,9 @@ public class PrimeFactorsTest {
                 { 2, new int[] { 2 } },
                 { 3, new int[] { 3 } },
                 { 4, new int[] { 2, 2 } },
-                { 6, new int[] { 2, 3 } }
+                { 6, new int[] { 2, 3 } },
+                { 12, new int[] { 2, 2, 3 } },
+                { 15, new int[] { 3, 5 } }
         });
     }
 

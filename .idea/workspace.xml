@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d281a479-cd12-4eb3-a04d-06911e8933ee" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/primeFactors/PrimeFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeFactors/PrimeFactors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -118,8 +117,8 @@
       <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+            <state relative-caret-position="225">
+              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -147,8 +146,8 @@
         <option value="$PROJECT_DIR$/src/leapYear/LeapYearTest.java" />
         <option value="$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java" />
         <option value="$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java" />
         <option value="$PROJECT_DIR$/src/primeFactors/PrimeFactors.java" />
+        <option value="$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java" />
       </list>
     </option>
   </component>
@@ -361,12 +360,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimeFactorsTest - 2019.01.02 at 13h 14m 34s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTest - 2019.01.02 at 13h 15m 12s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrimeFactorsTest - 2019.01.02 at 13h 15m 39s.xml">
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
@@ -391,6 +384,12 @@
     <history-entry file="PrimeFactorsTest - 2019.01.02 at 14h 31m 03s.xml">
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PrimeFactorsTest - 2019.01.02 at 14h 31m 57s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2019.01.02 at 14h 32m 14s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="767" y="23" width="1153" height="1177" extended-state="0" />
@@ -404,12 +403,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24569356" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24569356" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20121422" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20121422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -535,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        <state relative-caret-position="225">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
         </state>
       </provider>
     </entry>
