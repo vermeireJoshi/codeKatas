@@ -49,4 +49,13 @@ public class StatsCalculatorTest {
 
         assertEquals(1, min);
     }
+
+    @Test
+    public void lengthShouldReturnNumberOfElementsSequenceOneElement() {
+        int[] sequence = { 5 };
+
+        int length = stats.length(sequence);
+
+        assertEquals(1, length);
+    }
 }
