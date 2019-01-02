@@ -22,4 +22,13 @@ public class StatsCalculatorTest {
 
         assertEquals(3, max);
     }
+
+    @Test
+    public void maxValueReturnsTheMaxValueOfSequenceWithMultipleElements() {
+        int[] sequence = { 1, 2, 3, 4, 5 };
+
+        int max = stats.maxValue(sequence);
+
+        assertEquals(5, max);
+    }
 }

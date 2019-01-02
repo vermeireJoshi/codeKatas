@@ -1,8 +1,10 @@
 package statsCalculator;
 
+import java.util.Arrays;
+
 public class StatsCalculator {
 
     public int maxValue(int[] sequence) {
-        return 3;
+        return Arrays.stream(sequence).max().getAsInt();
     }
 }

@@ -77,8 +77,8 @@
       <file leaf-file-name="StatsCalculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="e#102#103#0" expanded="true" />
                 <element signature="e#130#131#0" expanded="true" />
@@ -90,8 +90,8 @@
       <file leaf-file-name="StatsCalculatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+            <state relative-caret-position="510">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#162#163#0" expanded="true" />
@@ -330,18 +330,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeapYearTest - 2019.01.02 at 11h 38m 25s.xml">
-      <configuration name="LeapYearTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeapYearTest - 2019.01.02 at 11h 38m 36s.xml">
-      <configuration name="LeapYearTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeapYearTest - 2019.01.02 at 11h 39m 13s.xml">
-      <configuration name="LeapYearTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StatsCalculatorTest_foo - 2019.01.02 at 11h 55m 47s.xml">
-      <configuration name="StatsCalculatorTest.foo" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StatsCalculatorTest - 2019.01.02 at 11h 55m 50s.xml">
       <configuration name="StatsCalculatorTest" configurationId="JUnit" />
     </history-entry>
@@ -360,6 +348,18 @@
     <history-entry file="StatsCalculatorTest - 2019.01.02 at 11h 58m 40s.xml">
       <configuration name="StatsCalculatorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 02m 35s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 08m 29s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 09m 21s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 09m 45s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="23" width="1852" height="1177" extended-state="0" />
@@ -373,12 +373,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24569356" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24569356" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13444924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13444924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -448,8 +448,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
             <element signature="e#102#103#0" expanded="true" />
             <element signature="e#130#131#0" expanded="true" />
@@ -459,8 +459,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#162#163#0" expanded="true" />
