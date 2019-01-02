@@ -24,3 +24,7 @@ Your task is to process a sequence of integer numbers to determine the following
 ## PrimeFactors
 
 Factorize a positive integer number into its prime factors.
+
+## Anagrams
+
+Write a program to generate all potential anagrams of an input string.
