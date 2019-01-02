@@ -13,6 +13,6 @@ public class StatsCalculator {
     }
 
     public int length(int[] sequence) {
-        return 1;
+        return sequence.length;
     }
 }

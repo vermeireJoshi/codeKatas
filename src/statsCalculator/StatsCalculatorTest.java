@@ -58,4 +58,13 @@ public class StatsCalculatorTest {
 
         assertEquals(1, length);
     }
+
+    @Test
+    public void lengthShouldReturnNumberOfElementsSequenceMultipleElements() {
+        int[] sequence = { 1, 2, 3, 4, 5 };
+
+        int length = stats.length(sequence);
+
+        assertEquals(5, length);
+    }
 }
