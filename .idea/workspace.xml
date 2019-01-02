@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d281a479-cd12-4eb3-a04d-06911e8933ee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/primeFactors/PrimeFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primeFactors/PrimeFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeFactors/PrimeFactors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fizzBuzz/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,24 +103,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimeFactors.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrimeFactors.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/primeFactors/PrimeFactors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="e#95#96#0" expanded="true" />
-                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#91#92#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="165">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -158,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/statsCalculator/StatsCalculator.java" />
         <option value="$PROJECT_DIR$/src/statsCalculator/StatsCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/primeFactors/PrimeFactors.java" />
+        <option value="$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java" />
       </list>
     </option>
   </component>
@@ -190,6 +182,12 @@
               <item name="CodeKatas" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeKatas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fizzBuzz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeKatas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeKatas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="primeFactors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -217,30 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StatsCalculatorTest">
-    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeKatas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fizzBuzz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="fizzBuzz" />
-      <option name="MAIN_CLASS_NAME" value="fizzBuzz.FizzBuzzTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.PrimeFactorsTest">
     <configuration name="LeapYearTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeKatas" />
       <extension name="coverage">
@@ -278,6 +253,29 @@
       <option name="MAIN_CLASS_NAME" value="leapYear.LeapYearTest" />
       <option name="METHOD_NAME" value="year2001NoLeapYear" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PrimeFactorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeKatas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primeFactors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="primeFactors" />
+      <option name="MAIN_CLASS_NAME" value="primeFactors.PrimeFactorsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -334,19 +332,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="JUnit.FizzBuzzTest" />
       <item itemvalue="JUnit.LeapYearTest.year2001NoLeapYear" />
       <item itemvalue="JUnit.LeapYearTest" />
       <item itemvalue="JUnit.StatsCalculatorTest.foo" />
       <item itemvalue="JUnit.StatsCalculatorTest" />
+      <item itemvalue="JUnit.PrimeFactorsTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrimeFactorsTest" />
         <item itemvalue="JUnit.StatsCalculatorTest" />
         <item itemvalue="JUnit.StatsCalculatorTest.foo" />
         <item itemvalue="JUnit.LeapYearTest" />
         <item itemvalue="JUnit.LeapYearTest.year2001NoLeapYear" />
-        <item itemvalue="JUnit.FizzBuzzTest" />
       </list>
     </recent_temporary>
   </component>
@@ -364,35 +362,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 17m 04s.xml">
-      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 21m 55s.xml">
-      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 26m 08s.xml">
-      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 27m 33s.xml">
-      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 30m 50s.xml">
-      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 33m 02s.xml">
-      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 33m 10s.xml">
-      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 33m 27s.xml">
-      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 33m 53s.xml">
-      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StatsCalculatorTest - 2019.01.02 at 12h 34m 20s.xml">
       <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StatsCalculatorTest - 2019.01.02 at 13h 07m 06s.xml">
+      <configuration name="StatsCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2019.01.02 at 13h 08m 39s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2019.01.02 at 13h 10m 07s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2019.01.02 at 13h 11m 40s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2019.01.02 at 13h 13m 40s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2019.01.02 at 13h 14m 19s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2019.01.02 at 13h 14m 34s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2019.01.02 at 13h 15m 12s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2019.01.02 at 13h 15m 39s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -442,18 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fizzBuzz/FizzBuzzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -519,21 +505,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/fizzBuzz/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="540">
+          <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/primeFactors/PrimeFactors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/primeFactors/PrimeFactorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
         </state>
       </provider>
     </entry>
