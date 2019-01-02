@@ -40,9 +40,15 @@ public class FizzBuzzTest {
     }
 
     @Test
-    public void fizzBuzzShuoldreturnFizzWithInput6() {
+    public void fizzBuzzShouldreturnFizzWithInput6() {
         String output = fizzBuzz.fizzBuzz(6);
         assertEquals("fizz", output);
+    }
+
+    @Test
+    public void fizzBuzzShouldReturnBuzzWithInput5() {
+        String output = fizzBuzz.fizzBuzz(5);
+        assertEquals("buzz", output);
     }
 }
 
