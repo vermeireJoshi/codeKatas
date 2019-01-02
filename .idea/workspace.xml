@@ -40,8 +40,8 @@
       <file leaf-file-name="AnagramsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/anagrams/AnagramsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="315">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -358,12 +358,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimeFactorsTest - 2019.01.02 at 14h 27m 16s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTest - 2019.01.02 at 14h 30m 48s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrimeFactorsTest - 2019.01.02 at 14h 31m 03s.xml">
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
@@ -386,6 +380,12 @@
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="AnagramsTest - 2019.01.02 at 16h 21m 09s.xml">
+      <configuration name="AnagramsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AnagramsTest - 2019.01.02 at 16h 21m 31s.xml">
+      <configuration name="AnagramsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AnagramsTest - 2019.01.02 at 16h 23m 44s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -539,8 +539,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/anagrams/AnagramsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="315">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

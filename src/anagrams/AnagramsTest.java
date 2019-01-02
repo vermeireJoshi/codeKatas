@@ -18,7 +18,8 @@ public class AnagramsTest {
     @Parameterized.Parameters
     public static Collection<Object[]> data() {
         return Arrays.asList(new Object[][] {
-                { "a", new String[] { "a" } }
+                { "a", new String[] { "a" } },
+                { "b", new String[] { "b" } }
         });
     }
 
