@@ -20,7 +20,8 @@ public class AnagramsTest {
         return Arrays.asList(new Object[][] {
                 { "a", new String[] { "a" } },
                 { "b", new String[] { "b" } },
-                { "ab", new String[] { "ab", "ba" } }
+                { "ab", new String[] { "ab", "ba" } },
+                { "aa", new String[] { "aa" } }
         });
     }
 

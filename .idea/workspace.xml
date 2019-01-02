@@ -27,8 +27,8 @@
       <file leaf-file-name="Anagrams.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/anagrams/Anagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="135">
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -36,8 +36,8 @@
       <file leaf-file-name="AnagramsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/anagrams/AnagramsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            <state relative-caret-position="615">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -354,15 +354,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimeFactorsTest - 2019.01.02 at 14h 32m 14s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest - 2019.01.02 at 15h 11m 00s.xml">
-      <configuration name="FizzBuzzTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeapYearTest - 2019.01.02 at 15h 16m 22s.xml">
-      <configuration name="LeapYearTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LeapYearTest - 2019.01.02 at 15h 16m 39s.xml">
       <configuration name="LeapYearTest" configurationId="JUnit" />
     </history-entry>
@@ -384,6 +375,15 @@
     <history-entry file="AnagramsTest - 2019.01.02 at 16h 25m 48s.xml">
       <configuration name="AnagramsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AnagramsTest - 2019.01.02 at 16h 30m 57s.xml">
+      <configuration name="AnagramsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AnagramsTest - 2019.01.02 at 16h 33m 58s.xml">
+      <configuration name="AnagramsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AnagramsTest - 2019.01.02 at 16h 35m 49s.xml">
+      <configuration name="AnagramsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="767" y="23" width="1153" height="1177" extended-state="0" />
@@ -397,12 +397,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23572077" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23572077" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20121422" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20121422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -535,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/anagrams/AnagramsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        <state relative-caret-position="615">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -545,8 +545,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/anagrams/Anagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="135">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
         </state>
       </provider>
     </entry>
